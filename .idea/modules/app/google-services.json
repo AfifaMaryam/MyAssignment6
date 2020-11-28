@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502255678586",
+    "firebase_url": "https://afifa-maryam.firebaseio.com",
+    "project_id": "afifa-maryam",
+    "storage_bucket": "afifa-maryam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502255678586:android:700def5d0a6c86f4ca37c3",
+        "android_client_info": {
+          "package_name": "ab.myassignment6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502255678586-c4duovj5a04top11g8difd9pj7b4off4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ab.myassignment6",
+            "certificate_hash": "38c95aac1260b2baf49f2c5ca83d173dc8b37f9f"
+          }
+        },
+        {
+          "client_id": "502255678586-mdgrfk302umpu7obbhboprn21u5q80ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATreGdVDtfiHOifjXY_g2CwCCWuFiJFTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502255678586-mdgrfk302umpu7obbhboprn21u5q80ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
